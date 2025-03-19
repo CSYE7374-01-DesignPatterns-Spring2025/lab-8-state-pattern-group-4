@@ -1,7 +1,7 @@
 package edu.neu.csye7374;
 
 import java.util.ArrayList;
-import java.util.List;
+import java.util.List;2
 
 /**
  * Concrete State for Dinner
@@ -16,9 +16,7 @@ public class DinnerState implements State {
         dinnerMenu.add(new MenuItem(2, "Salad", 12.99));
         dinnerMenu.add(new MenuItem(3, "Steak", 13.99));
 
-        // Optional Items
-        dinnerMenu.add(new MenuItem(4, "Salmon", 14.99));
-        dinnerMenu.add(new MenuItem(5, "Chicken", 15.99));
+
     }
 
     @Override
