@@ -1,7 +1,7 @@
 package edu.neu.csye7374;
 
 import java.util.ArrayList;
-import java.util.List;2
+import java.util.List;
 
 /**
  * Concrete State for Dinner
