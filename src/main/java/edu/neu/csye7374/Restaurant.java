@@ -43,7 +43,7 @@ public class Restaurant {
     }
 
 
-    public static void demo(String[] args) {
+    public static void demo() {
         Restaurant restaurant = new Restaurant();
 
         // Display menu in the default state (Lunch)
