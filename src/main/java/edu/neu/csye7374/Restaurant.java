@@ -11,7 +11,7 @@ public class Restaurant {
     public Restaurant() {
 
         // You can choose a default state here
-        currentState = new LunchState();;  // default to lunch
+        currentState = new LunchState();  // default to lunch
     }
 
     public void setState(State state) {
